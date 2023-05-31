@@ -1,5 +1,5 @@
 
-# Organ-ise Organ Donation Blockchain
+# DAPP For Organ Donation System
 
 The proposed system digitalizes the process of Organ Donation, enhances the existing system by
 handling endless data and provides a transparent as well as cost efficient system. 
@@ -61,20 +61,13 @@ https://solfaucet.com/
 Solana, ReactJS, Figma, WEB3.js, API, Phantom, QuickNode, CSS, Tailwind, Bootstrap
 
 ### About the project:
-The proposed System
-is faster, more secure and more scalable. The organ receiver and donor can be sure of the authenticity
-of the other without hesitation. The Organ Donation System does not allow any third-party access. The
-system eliminates the corruption in department of organ donation through a transparent system and the
+The proposed Systemis faster, more secure and more scalable. The organ receiver and donor can be sure of the authenticity
+of the other without hesitation. The Organ Donation System does not allow any third-party access. 
+The system eliminates the corruption in department of organ donation through a transparent system and the
 patients will be able to get the organ before it is too late.
 
-## Blog
-
-Solana x SuperteamDAO Hackathon Winning experience:
-
-https://medium.com/@shreyanbharadwaj/solana-x-superteamdao-hackathon-winning-experience-be82effd9963
 
 
 ## Motivation
 
-Organ donation being the most noble deed requires revolutionization. Our Project provides an efficient platform for potential organ doners and those who need the organs to connect. It uses Blockchain as its
-underlying Technology. Blockchain Technology is as it is known a decentralized and distributed network which stores records that are immutable as in cannot be altered once saved.
+Motivation : Over 30,00000 organ transplants are performed on average every year in the World. Minutes count after organs are removed from a donor and how much time is available before it must be transplanted to recipient (Heart/lungs &lt;4-6 hr, Liver &lt;8-10 hr, Pancreas &lt;15 hr). Finding ways to improve the speed of organ deliveries while improving security and reducing errors can lead to saving more human lives. Our solution was to create a dApp called ORgan Donation System.
