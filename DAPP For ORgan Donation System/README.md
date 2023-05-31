@@ -25,11 +25,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 Clone the project
 ```bash
-  git clone https://github.com/Yash-Sajwan24/Organ-ise-Organ-Donation-Blockchain.git
+  git clone https://github.com/Apollo9999/DAPP-For-ORgan-Donation-System.git
 ```
 Go to the project directory
 ```bash
-  cd Organ-ise-Organ-Donation-Blockchain
+  cd DAPP-For-ORgan-Donation-System
 ```
 
 Install dependencies
