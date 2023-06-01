@@ -6,6 +6,10 @@ The proposed system digitalizes the process of Organ Donation, enhances the exis
 handling endless data and provides a transparent as well as cost efficient system. 
 
 
+Images of phantom Wallet
+
+<img  alt="Coding" width="300" src="https://user-images.githubusercontent.com/52412969/210129154-2d898efe-fa27-44cf-83d8-fb1f658d876a.png">
+
 
 
 
